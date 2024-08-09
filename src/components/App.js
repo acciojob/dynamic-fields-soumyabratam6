@@ -54,7 +54,7 @@ const App = () => {
         </div>
       ))}
       <button type="button" onClick={handleAddFields}>
-        Add More
+        Add More..
       </button>
       <button type="submit">Submit</button>
     </form>
