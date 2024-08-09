@@ -27,7 +27,7 @@ const App = () => {
   // Handle form submission
   const handleSubmit = (event) => {
     event.preventDefault();
-    console.log('Form Data:', fields);
+    console.log(fields);
   };
 
   return (
